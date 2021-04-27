@@ -15,3 +15,5 @@ Purpose: This assignment is to study and practice JWebUnit:
 5.	Submit your report to EKU Blackboard.
 <br />
 6.	Prepare a 10-minutes video presentation about your stud and testing results.  Upload the video to FlipGrid. The video will be a part of the assignment, and will be graded together with the report.
+
+** Worked as a group with Benjamin Smith ** 
