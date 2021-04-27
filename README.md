@@ -1,4 +1,4 @@
-# JWebUnitTesting
+CSC 541/741 - Software Testing - Spring 2021 # JWebUnitTesting
 <br />
 CSC 541/741 - Software Testing - Spring 2021
 <br />
