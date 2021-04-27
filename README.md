@@ -1,6 +1,4 @@
-CSC 541/741 - Software Testing - Spring 2021 # JWebUnitTesting
-<br />
-CSC 541/741 - Software Testing - Spring 2021
+# JWebUnitTesting CSC 541/741 - Software Testing - Spring 2021 
 <br />
 Assignment 9/10 - (Team assignment—2 to 3 people per team) - 04/14/2021
 <br />
