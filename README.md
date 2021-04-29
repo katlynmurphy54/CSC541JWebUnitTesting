@@ -1,8 +1,6 @@
 # CSC 541/741 - Software Testing - Spring 2021 
 
-## JWebUnitTesting 
-
-Assignment 9/10 - Benjamin Smith and Katlyn Murphy- 04/14/2021
+## JWebUnitTesting - Assignment 9/10 - Benjamin Smith and Katlyn Murphy
 
 Purpose: This assignment is to study and practice JWebUnit: 
 1. Go to the following web sites to study JWebUnit: https://jwebunit.github.io/jwebunit/
