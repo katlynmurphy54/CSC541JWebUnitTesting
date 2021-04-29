@@ -2,7 +2,7 @@
 
 ## JWebUnitTesting - Benjamin Smith and Katlyn Murphy
 
-This is the source code and brief report for our submission of the CSC 541 group project in Spring 2021 @ EKU.
+This is the source code and brief report for our submission of the CSC 541 Assignment 9/10 group project in Spring 2021 @ EKU.
 
 Purpose: This assignment is to study and practice JWebUnit: 
 1. Go to the following web sites to study JWebUnit: https://jwebunit.github.io/jwebunit/
